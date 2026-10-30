@@ -1,0 +1,50 @@
+body{
+    background-color: #FFFFFF;
+    font-family: Century Gothic, Arial, sans-serif;
+}
+
+.encabezado{
+    background-color: #E7C6FF;
+}
+
+.encabezado a{
+    color: black;
+    text-decoration: none;
+}
+
+h1, h2, h3{
+    color: black;
+}
+
+.banner{
+    background-color: #E7C6FF;
+    border: 1px solid black;
+}
+
+.boton{
+    background-color: white;
+}
+
+.boton a{
+    text-decoration: none;
+    color: black;
+}
+
+.producto{
+    background-color: #E7C6FF;
+    border: 1px solid black;
+    width: 220px;
+}
+
+.producto b{
+    color: black;
+}
+
+.pie{
+    background-color: #E7C6FF;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}

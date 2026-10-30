@@ -1,0 +1,48 @@
+body{
+    background-color: white;
+    font-family: Century Gothic, Arial, sans-serif;
+}
+
+.encabezado{
+    background-color: #E7C6FF;
+}
+
+.encabezado a{
+    color: black;
+    text-decoration: none;
+}
+
+h1, h2, h3{
+    color: black;
+}
+
+.oferta{
+    background-color: #E7C6FF;
+    width: 250px;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+.oferta img{
+    border-radius: 5px;
+}
+
+.descuento{
+    font-weight: bold;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+input[type="submit"]{
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+.pie{
+    background-color: #E7C6FF;
+    color: black;
+}
